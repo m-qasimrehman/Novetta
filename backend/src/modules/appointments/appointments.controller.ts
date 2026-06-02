@@ -6,7 +6,6 @@ import { JwtAuthGuard } from '../auth/strategies/jwt-auth.guard'
 @Controller('appointments')
 export class AppointmentsController {
   constructor(private appointmentsService: AppointmentsService) {}
-
   @Post()
   book(
     @Body() body: {
