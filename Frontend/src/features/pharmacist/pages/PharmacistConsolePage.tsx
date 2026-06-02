@@ -4,7 +4,7 @@ import {
   FlaskConical, Users, Package, ShieldCheck, BarChart3,
   Check, X, Send, RefreshCw, Pill, AlertTriangle, CheckCircle,
   XCircle, ChevronLeft, ChevronRight, Eye, Layers, LogOut,
-  Clock, MessageSquare, Plus, Save, Fingerprint,
+  MessageSquare, Plus, Save, Fingerprint,
 } from 'lucide-react'
 import { Navbar } from '../../../components/layouts/Navbar'
 import { pharmacistPanelApi, pharmacyApi, type PharmacistSession } from '../../../lib/api'
