@@ -1,0 +1,541 @@
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[NestFactory] [39m[32mStarting Nest application...[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPrismaModule dependencies initialized[39m[38;5;3m +17ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigHostModule dependencies initialized[39m[38;5;3m +4ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mConfigModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mUsersModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32mSMTP — host:smtp.gmail.com user:muhammadqasim.alkhalil@gmail.com from:Novetta <muhammadqasim.alkhalil@gmail.com> pass:***SET***[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32mGmail detected — using nodemailer Gmail service preset (port 465, SSL)[39m
+[2026-06-01 09:35:43] DEBUG Creating transport: nodemailer (6.10.1; +https://nodemailer.com/; SMTP/6.10.1[client:6.10.1])
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppModule dependencies initialized[39m[38;5;3m +6ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDoctorsModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mTelehealthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPrescriptionsModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMedicalRecordsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPharmacyModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mProfileModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mDoctorPanelModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mJwtModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mNotificationsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mLabsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mMembershipModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAdminModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mPharmacistPanelModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mLabCoordinatorModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mChatModule dependencies initialized[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAppointmentsModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[InstanceLoader] [39m[32mAuthModule dependencies initialized[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAuthController {/auth}:[39m[38;5;3m +38ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/register, POST} route[39m[38;5;3m +2ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/login, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/verify-otp, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/resend-otp, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/forgot-password, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/reset-password, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/refresh, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/logout, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/logout-all, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/me, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/test-email, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/auth/seed-demo, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDoctorsController {/doctors}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors/specializations, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors/cities, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors/:id/availability, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctors/:id/reviews, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAppointmentsController {/appointments}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments/:id/cancel, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments/:id/confirm-payment, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/appointments/:id/reschedule, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mNotificationsController {/notifications}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/notifications, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/notifications/unread-count, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/notifications/:id/read, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/notifications/read-all, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mTelehealthController {/telehealth}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/start/:appointmentId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/:id/end, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/:id/notes, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/:id/prescriptions, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/telehealth/:id/lab-orders, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPrescriptionsController {/prescriptions}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/prescriptions, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/prescriptions/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMedicalRecordsController {/medical-records}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/medical-records, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/medical-records, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/medical-records/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPharmacyController {/pharmacy}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/medicines, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/medicines/categories, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/medicines/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/barcode/:code, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/compare/:medicineId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/ocr-scan, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/pharmacist-consult, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders/:id/tracking, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders/:id, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/pharmacies, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/pharmacies/:id/inventory, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/consult-sessions, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/consult-sessions/my, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders/:id/cancel, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders/:id/delivery-otp, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/orders/:id/confirm-delivery, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/chat/:pharmacistId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/chat, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacy/consult-sessions/:id/cancel, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mProfileController {/profile}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/medical-history, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/medical-history, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/medical-history/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/dependents, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/dependents, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/dependents/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/addresses, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/addresses, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/addresses/:id/default, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/profile/addresses/:id, DELETE} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mLabsController {/labs}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/tests, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/tests/:id, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/packages, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/centers, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/book, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/my-bookings, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/bookings/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/bookings/:id/cancel, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/labs/seed, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mMembershipController {/membership}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/plans, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/subscribe, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/my, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/coupons, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/apply-coupon, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/membership/seed, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mAdminController {/admin}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/stats, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/revenue, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/users, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/users/:id/toggle, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/doctors, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/doctors/:id/verify, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/plans, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/plans, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/plans/:id, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/plans/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/membership-stats, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/coupons, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/coupons, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/coupons/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/coupons/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/appointments, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/orders, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/payouts, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/pharmacies, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/pharmacies/:id/toggle, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/labs, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/labs/:id/toggle, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/online-users, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/admin/activity, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mDoctorPanelController {/doctor-panel}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/profile, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/profile, PUT} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/online-status, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/home-visits, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/availability, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/availability, PUT} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/certifications, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/certifications/:index, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/stats, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/appointments, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/appointments/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/patients/:id/records, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/prescriptions, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/prescriptions, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/messages, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/doctor-panel/messages, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mPharmacistPanelController {/pharmacist-panel}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/me, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/queue, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/active-sessions, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/sessions/:id/accept, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/sessions/:id/complete, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/sessions/:id/prescribe, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/chat/:patientId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/chat, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/patients/:id/summary, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/inventory/:pharmacyId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/inventory/:pharmacyId, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/orders, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/orders/:id/status, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/pharmacist-panel/orders/:id/validate-prescription, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mLabCoordinatorController {/lab-coordinator}:[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/center, GET} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/center, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/stats, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/tests, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/tests, POST} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/tests/:id, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/tests/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/packages, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/packages, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/packages/:id, PATCH} route[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/packages/:id, DELETE} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/bookings, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/bookings/:id/status, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/bookings/:id/assign, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/lab-coordinator/bookings/:id/report, PATCH} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RoutesResolver] [39m[32mChatController {/chat}:[39m[38;5;3m +1ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/chat/:partnerId, GET} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/chat/send, POST} route[39m[38;5;3m +0ms[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:43 [32m    LOG[39m [38;5;3m[RouterExplorer] [39m[32mMapped {/chat/:doctorUserId/limit, GET} route[39m[38;5;3m +0ms[39m
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] Resolved smtp.gmail.com as 2a00:1450:400c:c0c::6d [cache miss]
+[2026-06-01 09:35:43] INFO  [TOPNmQrxUPw] Secure connection established to 2a00:1450:400c:c0c::6d:465
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 220 smtp.gmail.com ESMTP ffacd0b85a97d-45ef35874b7sm24548683f8f.35 - gsmtp
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] C: EHLO [127.0.0.1]
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-smtp.gmail.com at your service, [2001:16a2:cf9d:8700:e017:2a5f:45c3:e609]
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-SIZE 35882577
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-8BITMIME
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-ENHANCEDSTATUSCODES
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-PIPELINING
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250-CHUNKING
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] S: 250 SMTPUTF8
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] SMTP handshake finished
+[2026-06-01 09:35:43] DEBUG [TOPNmQrxUPw] C: AUTH PLAIN AG11aGFtbWFkcWFzaW0uYWxraGFsaWxAZ21haWwuY29tAC8qIHNlY3JldCAqLw==
+[2026-06-01 09:35:44] DEBUG [TOPNmQrxUPw] S: 235 2.7.0 Accepted
+[2026-06-01 09:35:44] INFO  [TOPNmQrxUPw] User "muhammadqasim.alkhalil@gmail.com" authenticated
+[2026-06-01 09:35:44] DEBUG [TOPNmQrxUPw] C: QUIT
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:44 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32m✅ SMTP verified — OTP emails will be delivered.[39m
+[32m[Nest] 3292  - [39m01/06/2026, 14:35:44 [32m    LOG[39m [38;5;3m[NestApplication] [39m[32mNest application successfully started[39m[38;5;3m +3ms[39m
+Server listening on port 5000
+[2026-06-01 09:35:44] DEBUG [TOPNmQrxUPw] S: 221 2.0.0 closing connection ffacd0b85a97d-45ef35874b7sm24548683f8f.35 - gsmtp
+[2026-06-01 09:35:44] DEBUG [TOPNmQrxUPw] Closing connection to the server using "end"
+[2026-06-01 09:35:44] INFO  [TOPNmQrxUPw] Connection closed
+[2026-06-01 09:38:06] DEBUG Sending mail using SMTP/6.10.1[client:6.10.1]
+[2026-06-01 09:38:06] DEBUG [Tkqd0vmM] Resolved smtp.gmail.com as 2a00:1450:400c:c0c::6d [cache hit]
+[2026-06-01 09:38:07] INFO  [Tkqd0vmM] Secure connection established to 2a00:1450:400c:c0c::6d:465
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 220 smtp.gmail.com ESMTP 5b1f17b1804b1-4909c123406sm95165705e9.5 - gsmtp
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] C: EHLO [127.0.0.1]
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-smtp.gmail.com at your service, [2001:16a2:cf9d:8700:e017:2a5f:45c3:e609]
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-SIZE 35882577
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-8BITMIME
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-ENHANCEDSTATUSCODES
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-PIPELINING
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250-CHUNKING
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250 SMTPUTF8
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] SMTP handshake finished
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] C: AUTH PLAIN AG11aGFtbWFkcWFzaW0uYWxraGFsaWxAZ21haWwuY29tAC8qIHNlY3JldCAqLw==
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 235 2.7.0 Accepted
+[2026-06-01 09:38:07] INFO  [Tkqd0vmM] User "muhammadqasim.alkhalil@gmail.com" authenticated
+[2026-06-01 09:38:07] INFO  Sending message <b1bf6a3d-0ae6-7012-d342-d45f60d85730@gmail.com> to <fakeonline76@gmail.com>
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] C: MAIL FROM:<muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250 2.1.0 OK 5b1f17b1804b1-4909c123406sm95165705e9.5 - gsmtp
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] C: RCPT TO:<fakeonline76@gmail.com>
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] S: 250 2.1.5 OK 5b1f17b1804b1-4909c123406sm95165705e9.5 - gsmtp
+[2026-06-01 09:38:07] DEBUG [Tkqd0vmM] C: DATA
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] S: 354 Go ahead 5b1f17b1804b1-4909c123406sm95165705e9.5 - gsmtp
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] From: Novetta <muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] To: fakeonline76@gmail.com
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Subject: Your Novetta verification code
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Message-ID: <b1bf6a3d-0ae6-7012-d342-d45f60d85730@gmail.com>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Date: Mon, 01 Jun 2026 09:38:06 +0000
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] MIME-Version: 1.0
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Content-Type: multipart/alternative;
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]  boundary="--_NmP-423ee70d1ac44fa8-Part_1"
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] ----_NmP-423ee70d1ac44fa8-Part_1
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Content-Type: text/plain; charset=utf-8
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Content-Transfer-Encoding: 7bit
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Your Novetta OTP is: 417016
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] This code expires in 10 minutes. Do not share it with anyone.
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] ----_NmP-423ee70d1ac44fa8-Part_1
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Content-Type: text/html; charset=utf-8
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] Content-Transfer-Encoding: quoted-printable
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] <!DOCTYPE html>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] <html>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] <head><meta charset=3D"UTF-8"><meta =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"></head=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] >
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] <body style=3D"margin:0;padding:0;background:#f5f5f5;font-family:Arial,=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] sans-serif">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"padding:40px 20px">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]     <tr><td align=3D"center">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]       <table width=3D"480" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"background:#ffffff;border-radius:12px;border:1px solid =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] #e0e0e0;overflow:hidden">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         <tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           <td =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"background:#e40000;padding:24px 32px">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <h1 =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"margin:0;color:#ffffff;font-size:22px;font-weight:900">novetta</h1=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] >
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           </td>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         </tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         <tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           <td =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"padding:32px">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <p style=3D"margin:0 0 =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 16px;color:#1a1a1a;font-size:15px">Hello,</p>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <p =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"margin:0 0 24px;color:#444;font-size:14px">Use the verification =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] code below to complete your sign-up. This code is valid for <strong>10 =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] minutes</strong>.</p>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <div style=3D"background:#fff0f0;border:2=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] px dashed #e40000;border-radius:10px;padding:24px;text-align:center;margin:=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] 0 0 24px">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]               <span style=3D"font-size:40px;font-weight:900;lett=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] er-spacing:10px;color:#e40000">417016</span>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             </div>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <p style=3D"margin:0;color:#888;font-size:12px">If you did not =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] request this, please ignore this email. Do not share this code with anyone.=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] </p>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           </td>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         </tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         <tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           <td =
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] style=3D"background:#f9f9f9;padding:16px 32px;border-top:1px solid #eee">
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]             <p style=3D"margin:0;color:#aaa;font-size:11px;text-align:cente=
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] r">=C2=A9 2026 Novetta Health Pvt. Ltd.</p>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]           </td>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]         </tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]       </table>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]     </td></tr>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM]   </table>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] </body>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] </html>
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] ----_NmP-423ee70d1ac44fa8-Part_1--
+[2026-06-01 09:38:08] DEBUG [Tkqd0vmM] .
+[2026-06-01 09:38:08] INFO  [Tkqd0vmM] <2546 bytes encoded mime message (source size 2509 bytes)>
+[2026-06-01 09:38:09] DEBUG [Tkqd0vmM] S: 250 2.0.0 OK  1780306696 5b1f17b1804b1-4909c123406sm95165705e9.5 - gsmtp
+[2026-06-01 09:38:09] DEBUG [Tkqd0vmM] Closing connection to the server using "end"
+[32m[Nest] 3292  - [39m01/06/2026, 14:38:09 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32m✅ OTP sent to fakeonline76@gmail.com — messageId: <b1bf6a3d-0ae6-7012-d342-d45f60d85730@gmail.com>[39m
+[2026-06-01 09:38:09] INFO  [Tkqd0vmM] Connection closed
+[2026-06-01 10:18:19] DEBUG Sending mail using SMTP/6.10.1[client:6.10.1]
+[2026-06-01 10:18:19] DEBUG [gbVuxlpHZ4] Resolved smtp.gmail.com as 2a00:1450:400c:c06::6d [cache miss]
+[2026-06-01 10:18:19] INFO  [gbVuxlpHZ4] Secure connection established to 2a00:1450:400c:c06::6d:465
+[2026-06-01 10:18:19] DEBUG [gbVuxlpHZ4] S: 220 smtp.gmail.com ESMTP 5b1f17b1804b1-4909c08f1bdsm112059555e9.1 - gsmtp
+[2026-06-01 10:18:19] DEBUG [gbVuxlpHZ4] C: EHLO [127.0.0.1]
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-smtp.gmail.com at your service, [2001:16a2:cf9d:8700:e017:2a5f:45c3:e609]
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-SIZE 35882577
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-8BITMIME
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-ENHANCEDSTATUSCODES
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-PIPELINING
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250-CHUNKING
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250 SMTPUTF8
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] SMTP handshake finished
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] C: AUTH PLAIN AG11aGFtbWFkcWFzaW0uYWxraGFsaWxAZ21haWwuY29tAC8qIHNlY3JldCAqLw==
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 235 2.7.0 Accepted
+[2026-06-01 10:18:20] INFO  [gbVuxlpHZ4] User "muhammadqasim.alkhalil@gmail.com" authenticated
+[2026-06-01 10:18:20] INFO  Sending message <c38d37ee-dcef-cf92-555d-e7bce6651e98@gmail.com> to <jawadsyed406@gmail.com>
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] C: MAIL FROM:<muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250 2.1.0 OK 5b1f17b1804b1-4909c08f1bdsm112059555e9.1 - gsmtp
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] C: RCPT TO:<jawadsyed406@gmail.com>
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] S: 250 2.1.5 OK 5b1f17b1804b1-4909c08f1bdsm112059555e9.1 - gsmtp
+[2026-06-01 10:18:20] DEBUG [gbVuxlpHZ4] C: DATA
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] S: 354 Go ahead 5b1f17b1804b1-4909c08f1bdsm112059555e9.1 - gsmtp
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] From: Novetta <muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] To: jawadsyed406@gmail.com
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Subject: Your Novetta verification code
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Message-ID: <c38d37ee-dcef-cf92-555d-e7bce6651e98@gmail.com>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Date: Mon, 01 Jun 2026 10:18:19 +0000
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] MIME-Version: 1.0
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Content-Type: multipart/alternative;
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]  boundary="--_NmP-c6952c743f440e66-Part_1"
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] ----_NmP-c6952c743f440e66-Part_1
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Content-Type: text/plain; charset=utf-8
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Content-Transfer-Encoding: 7bit
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Your Novetta OTP is: 324878
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] This code expires in 10 minutes. Do not share it with anyone.
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] ----_NmP-c6952c743f440e66-Part_1
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Content-Type: text/html; charset=utf-8
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Content-Transfer-Encoding: quoted-printable
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] <!DOCTYPE html>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] <html>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] <head><meta charset=3D"UTF-8"><meta =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"></head=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] >
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] <body style=3D"margin:0;padding:0;background:#f5f5f5;font-family:Arial,=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] sans-serif">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"padding:40px 20px">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]     <tr><td align=3D"center">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]       <table width=3D"480" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"background:#ffffff;border-radius:12px;border:1px solid =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] #e0e0e0;overflow:hidden">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         <tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           <td =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"background:#e40000;padding:24px 32px">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <h1 =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"margin:0;color:#ffffff;font-size:22px;font-weight:900">novetta</h1=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] >
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           </td>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         </tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         <tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           <td =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"padding:32px">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <p style=3D"margin:0 0 =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 16px;color:#1a1a1a;font-size:15px">Hello,</p>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <p =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"margin:0 0 24px;color:#444;font-size:14px">Use the verification =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] code below to complete your sign-up. This code is valid for <strong>10 =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] minutes</strong>.</p>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <div style=3D"background:#fff0f0;border:2=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] px dashed #e40000;border-radius:10px;padding:24px;text-align:center;margin:=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] 0 0 24px">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]               <span style=3D"font-size:40px;font-weight:900;lett=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] er-spacing:10px;color:#e40000">324878</span>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             </div>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <p style=3D"margin:0;color:#888;font-size:12px">If you did not =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] request this, please ignore this email. Do not share this code with anyone.=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] </p>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           </td>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         </tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         <tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           <td =
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] style=3D"background:#f9f9f9;padding:16px 32px;border-top:1px solid #eee">
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]             <p style=3D"margin:0;color:#aaa;font-size:11px;text-align:cente=
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] r">=C2=A9 2026 Novetta Health Pvt. Ltd.</p>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]           </td>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]         </tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]       </table>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]     </td></tr>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4]   </table>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] </body>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] </html>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] ----_NmP-c6952c743f440e66-Part_1--
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] .
+[2026-06-01 10:18:21] INFO  [gbVuxlpHZ4] <2546 bytes encoded mime message (source size 2509 bytes)>
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] S: 250 2.0.0 OK  1780309108 5b1f17b1804b1-4909c08f1bdsm112059555e9.1 - gsmtp
+[2026-06-01 10:18:21] DEBUG [gbVuxlpHZ4] Closing connection to the server using "end"
+[32m[Nest] 3292  - [39m01/06/2026, 15:18:21 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32m✅ OTP sent to jawadsyed406@gmail.com — messageId: <c38d37ee-dcef-cf92-555d-e7bce6651e98@gmail.com>[39m
+[2026-06-01 10:18:21] INFO  [gbVuxlpHZ4] Connection closed
+[2026-06-01 12:26:26] DEBUG Sending mail using SMTP/6.10.1[client:6.10.1]
+[2026-06-01 12:26:26] DEBUG [jj223Mwjfwg] Resolved smtp.gmail.com as 2a00:1450:400c:c09::6c [cache miss]
+[2026-06-01 12:26:26] INFO  [jj223Mwjfwg] Secure connection established to 2a00:1450:400c:c09::6c:465
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 220 smtp.gmail.com ESMTP 5b1f17b1804b1-4909c09acd3sm74510565e9.4 - gsmtp
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] C: EHLO [127.0.0.1]
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-smtp.gmail.com at your service, [2001:16a2:cf9d:8700:e017:2a5f:45c3:e609]
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-SIZE 35882577
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-8BITMIME
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-ENHANCEDSTATUSCODES
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-PIPELINING
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250-CHUNKING
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250 SMTPUTF8
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] SMTP handshake finished
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] C: AUTH PLAIN AG11aGFtbWFkcWFzaW0uYWxraGFsaWxAZ21haWwuY29tAC8qIHNlY3JldCAqLw==
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 235 2.7.0 Accepted
+[2026-06-01 12:26:27] INFO  [jj223Mwjfwg] User "muhammadqasim.alkhalil@gmail.com" authenticated
+[2026-06-01 12:26:27] INFO  Sending message <75ec8202-5461-7c81-075b-66da83a5f392@gmail.com> to <john@example.com>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] C: MAIL FROM:<muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250 2.1.0 OK 5b1f17b1804b1-4909c09acd3sm74510565e9.4 - gsmtp
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] C: RCPT TO:<john@example.com>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 250 2.1.5 OK 5b1f17b1804b1-4909c09acd3sm74510565e9.4 - gsmtp
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] C: DATA
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] S: 354 Go ahead 5b1f17b1804b1-4909c09acd3sm74510565e9.4 - gsmtp
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] From: Novetta <muhammadqasim.alkhalil@gmail.com>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] To: john@example.com
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Subject: Your Novetta verification code
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Message-ID: <75ec8202-5461-7c81-075b-66da83a5f392@gmail.com>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Date: Mon, 01 Jun 2026 12:26:26 +0000
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] MIME-Version: 1.0
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Content-Type: multipart/alternative;
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]  boundary="--_NmP-e5a8ce58550453c8-Part_1"
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] ----_NmP-e5a8ce58550453c8-Part_1
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Content-Type: text/plain; charset=utf-8
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Content-Transfer-Encoding: 7bit
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Your Novetta OTP is: 498873
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] This code expires in 10 minutes. Do not share it with anyone.
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] ----_NmP-e5a8ce58550453c8-Part_1
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Content-Type: text/html; charset=utf-8
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] Content-Transfer-Encoding: quoted-printable
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] <!DOCTYPE html>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] <html>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] <head><meta charset=3D"UTF-8"><meta =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"></head=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] >
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] <body style=3D"margin:0;padding:0;background:#f5f5f5;font-family:Arial,=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] sans-serif">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]   <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"padding:40px 20px">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]     <tr><td align=3D"center">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]       <table width=3D"480" cellpadding=3D"0" cellspacing=3D"0" =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"background:#ffffff;border-radius:12px;border:1px solid =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] #e0e0e0;overflow:hidden">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         <tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           <td =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"background:#e40000;padding:24px 32px">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <h1 =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"margin:0;color:#ffffff;font-size:22px;font-weight:900">novetta</h1=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] >
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           </td>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         </tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         <tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           <td =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"padding:32px">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <p style=3D"margin:0 0 =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 16px;color:#1a1a1a;font-size:15px">Hello,</p>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <p =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"margin:0 0 24px;color:#444;font-size:14px">Use the verification =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] code below to complete your sign-up. This code is valid for <strong>10 =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] minutes</strong>.</p>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <div style=3D"background:#fff0f0;border:2=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] px dashed #e40000;border-radius:10px;padding:24px;text-align:center;margin:=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] 0 0 24px">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]               <span style=3D"font-size:40px;font-weight:900;lett=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] er-spacing:10px;color:#e40000">498873</span>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             </div>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <p style=3D"margin:0;color:#888;font-size:12px">If you did not =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] request this, please ignore this email. Do not share this code with anyone.=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] </p>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           </td>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         </tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         <tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           <td =
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] style=3D"background:#f9f9f9;padding:16px 32px;border-top:1px solid #eee">
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]             <p style=3D"margin:0;color:#aaa;font-size:11px;text-align:cente=
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] r">=C2=A9 2026 Novetta Health Pvt. Ltd.</p>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]           </td>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]         </tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]       </table>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]     </td></tr>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg]   </table>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] </body>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] </html>
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] ----_NmP-e5a8ce58550453c8-Part_1--
+[2026-06-01 12:26:27] DEBUG [jj223Mwjfwg] .
+[2026-06-01 12:26:27] INFO  [jj223Mwjfwg] <2540 bytes encoded mime message (source size 2503 bytes)>
+[2026-06-01 12:26:29] DEBUG [jj223Mwjfwg] S: 250 2.0.0 OK  1780316796 5b1f17b1804b1-4909c09acd3sm74510565e9.4 - gsmtp
+[2026-06-01 12:26:29] DEBUG [jj223Mwjfwg] Closing connection to the server using "end"
+[32m[Nest] 3292  - [39m01/06/2026, 17:26:29 [32m    LOG[39m [38;5;3m[NotificationService] [39m[32m✅ OTP sent to john@example.com — messageId: <75ec8202-5461-7c81-075b-66da83a5f392@gmail.com>[39m
+[2026-06-01 12:26:29] INFO  [jj223Mwjfwg] Connection closed
